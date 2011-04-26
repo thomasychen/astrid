@@ -55,6 +55,8 @@ import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
 import android.widget.Toast;
 
+import com.google.ads.AdRequest;
+import com.google.ads.AdView;
 import com.timsu.astrid.R;
 import com.todoroo.andlib.data.Property;
 import com.todoroo.andlib.data.TodorooCursor;
@@ -139,6 +141,7 @@ public class TaskListActivity extends ListActivity implements OnScrollListener,
 
     /** token for passing a {@link Filter} object through extras */
     public static final String TOKEN_FILTER = "filter"; //$NON-NLS-1$
+    private static final String MY_AD_UNIT_ID = "a14cb151eb21c6c";
 
     // --- instance variables
 
@@ -204,9 +207,19 @@ public class TaskListActivity extends ListActivity implements OnScrollListener,
         super.onCreate(savedInstanceState);
 
         new StartupService().onStartupApplication(this);
+
+
+        //AdView adView = new AdView(this, AdSize.BANNER, MY_AD_UNIT_ID);
+
         ViewGroup parent = (ViewGroup) getLayoutInflater().inflate(R.layout.task_list_activity, null);
+        //parent.addView(adView,1);
         parent.addView(getListBody(parent), 1);
+
         setContentView(parent);
+
+        AdView adView = (AdView)this.findViewById(R.id.adView);
+        adView.loadAd(new AdRequest());
+
 
         if(database == null)
             return;
@@ -215,6 +228,10 @@ public class TaskListActivity extends ListActivity implements OnScrollListener,
         setUpUiComponents();
         onNewIntent(getIntent());
 
+
+
+
+        //adView.loadAd(new AdRequest());
         Eula.showEula(this);
     }
 

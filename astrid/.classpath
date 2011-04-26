@@ -4,7 +4,6 @@
 	<classpathentry kind="src" path="src-legacy"/>
 	<classpathentry kind="src" path="common-src"/>
 	<classpathentry excluding="com/todoroo/astrid/rmilk/EditOperationExposer.java|com/todoroo/astrid/rmilk/MilkEditActivity.java" kind="src" path="plugin-src"/>
-	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="src" path="rmilk-src"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="lib" path="libs/annotations.jar"/>
@@ -15,8 +14,10 @@
 	<classpathentry exported="true" kind="lib" path="libs/locale_platform.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/todoroo-g.jar"/>
 	<classpathentry kind="lib" path="libs/framework.jar"/>
+	<classpathentry kind="lib" path="/Users/spicysquid/androidstuff/admob/GoogleAdMobAdsSdkAndroid-4.0.4/GoogleAdMobAdsSdk-4.0.4.jar"/>
 	<classpathentry kind="src" path="GreenDroid_src"/>
 	<classpathentry kind="src" path="astridApi_src"/>
 	<classpathentry kind="src" path="facebook_src"/>
+	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="output" path="ecbuild"/>
 </classpath>
