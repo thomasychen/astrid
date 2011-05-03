@@ -15,7 +15,7 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.TabHost;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.service.Autowired;
 import com.todoroo.andlib.service.DependencyInjectionService;
 import com.todoroo.astrid.adapter.AddOnAdapter;

@@ -18,7 +18,7 @@ package greendroid.widget;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 /**
  * An extension of a {@link NormalActionBarItem} that supports a loading states.

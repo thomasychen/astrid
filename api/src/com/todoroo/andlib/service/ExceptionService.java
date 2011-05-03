@@ -9,7 +9,7 @@ import android.content.pm.PackageManager;
 import android.content.pm.PackageManager.NameNotFoundException;
 import android.util.Log;
 
-import com.todoroo.astrid.api.R;
+import com.timsu.astridsquid.R;
 
 /**
  * Exception handling utility class - reports and logs errors

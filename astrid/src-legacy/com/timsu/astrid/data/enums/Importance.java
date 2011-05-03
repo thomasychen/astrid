@@ -19,7 +19,7 @@
  */
 package com.timsu.astrid.data.enums;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 
 public enum Importance {
     // MOST IMPORTANT

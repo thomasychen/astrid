@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.data.Property.IntegerProperty;
 import com.todoroo.andlib.service.DependencyInjectionService;
 import com.todoroo.astrid.activity.TaskEditActivity.TaskEditControlSet;

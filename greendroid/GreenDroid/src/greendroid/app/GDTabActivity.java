@@ -31,7 +31,7 @@ import android.widget.FrameLayout;
 import android.widget.TabHost;
 import android.widget.TextView;
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 /**
  * An equivalent to a TabActivity that manages fancy tabs and an ActionBar

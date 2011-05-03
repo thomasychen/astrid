@@ -26,7 +26,7 @@ import android.content.DialogInterface.OnClickListener;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 
 public class NumberPickerDialog extends AlertDialog implements OnClickListener {
 

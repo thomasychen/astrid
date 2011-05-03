@@ -10,7 +10,7 @@ import android.preference.Preference.OnPreferenceClickListener;
 import android.view.View;
 import android.view.ViewGroup.OnHierarchyChangeListener;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.utility.DateUtilities;
 import com.todoroo.andlib.utility.DialogUtilities;
 import com.todoroo.andlib.utility.Preferences;

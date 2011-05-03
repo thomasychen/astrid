@@ -19,7 +19,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageButton;
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 /**
  * Default implementation of an {@link ActionBarItem}. A

@@ -10,7 +10,7 @@ import android.content.DialogInterface;
 import android.view.View;
 import android.webkit.WebView;
 
-import com.todoroo.astrid.api.R;
+import com.timsu.astridsquid.R;
 
 public class DialogUtilities {
 

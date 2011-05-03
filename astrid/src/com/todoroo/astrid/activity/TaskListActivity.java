@@ -1,9 +1,11 @@
 package com.todoroo.astrid.activity;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map.Entry;
+import java.util.Set;
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.concurrent.atomic.AtomicReference;
@@ -57,7 +59,7 @@ import android.widget.Toast;
 
 import com.google.ads.AdRequest;
 import com.google.ads.AdView;
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.data.Property;
 import com.todoroo.andlib.data.TodorooCursor;
 import com.todoroo.andlib.service.Autowired;
@@ -217,8 +219,15 @@ public class TaskListActivity extends ListActivity implements OnScrollListener,
 
         setContentView(parent);
 
+        //AdManager
         AdView adView = (AdView)this.findViewById(R.id.adView);
-        adView.loadAd(new AdRequest());
+        AdRequest ar = new AdRequest();
+        Set<String> keywords = new HashSet();
+        //keywords.add("organizer");
+        //keywords.add("to do list");
+        //keywords.add("GTD");
+        //keywords.add("calendar");
+        adView.loadAd(ar);
 
 
         if(database == null)

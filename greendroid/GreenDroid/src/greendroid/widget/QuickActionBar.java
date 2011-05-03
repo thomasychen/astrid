@@ -36,7 +36,7 @@ import android.widget.TextView;
 import android.widget.LinearLayout;
 
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 /**
  * A QuickActionBar displays a set of {@link QuickAction} on a single row. In

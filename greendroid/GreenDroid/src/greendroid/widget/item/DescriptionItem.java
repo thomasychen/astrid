@@ -19,7 +19,7 @@ import greendroid.widget.itemview.ItemView;
 import android.content.Context;
 import android.view.ViewGroup;
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 /**
  * A description item displays a text on several lines. The default

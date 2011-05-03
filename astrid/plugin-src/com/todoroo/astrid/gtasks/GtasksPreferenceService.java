@@ -1,6 +1,6 @@
 package com.todoroo.astrid.gtasks;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.astrid.sync.SyncProviderUtilities;
 
 /**

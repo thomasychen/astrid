@@ -7,7 +7,7 @@ package com.todoroo.astrid.service;
 import android.content.Context;
 
 import com.flurry.android.FlurryAgent;
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.utility.Preferences;
 import com.todoroo.astrid.utility.Constants;
 

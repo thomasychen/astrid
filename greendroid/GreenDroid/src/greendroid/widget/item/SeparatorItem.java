@@ -20,7 +20,7 @@ import android.content.Context;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 /**
  * Acts as a separator between important {@link ListView} sections. A separator

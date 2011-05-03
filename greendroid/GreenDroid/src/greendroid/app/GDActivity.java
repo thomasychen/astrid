@@ -15,7 +15,7 @@
  */
 package greendroid.app;
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 import greendroid.util.Config;
 import greendroid.widget.ActionBar;

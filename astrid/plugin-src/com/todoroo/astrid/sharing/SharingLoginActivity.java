@@ -27,7 +27,7 @@ import android.widget.TextView;
 import com.facebook.android.AuthListener;
 import com.facebook.android.Facebook;
 import com.facebook.android.LoginButton;
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.service.Autowired;
 import com.todoroo.andlib.service.ContextManager;
 import com.todoroo.andlib.service.DependencyInjectionService;

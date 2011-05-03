@@ -2,7 +2,7 @@ package org.weloveastrid.rmilk;
 
 import org.weloveastrid.rmilk.sync.MilkSyncProvider;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.astrid.sync.SyncProviderPreferences;
 import com.todoroo.astrid.sync.SyncProviderUtilities;
 

@@ -2,7 +2,7 @@ package com.todoroo.astrid.gtasks;
 
 import android.os.Bundle;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.service.Autowired;
 import com.todoroo.andlib.service.DependencyInjectionService;
 import com.todoroo.astrid.gtasks.sync.GtasksSyncProvider;

@@ -22,7 +22,7 @@ import android.view.View.OnCreateContextMenuListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.data.Property.CountProperty;
 import com.todoroo.andlib.service.Autowired;
 import com.todoroo.andlib.service.ContextManager;

@@ -28,7 +28,7 @@ import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.view.ViewGroup;
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 /**
  * A SubtextItem is really similar to a SubtitleItem as it displays a two lines

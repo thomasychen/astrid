@@ -22,7 +22,7 @@ import android.util.AttributeSet;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 public class SubtitleItemView extends LinearLayout implements ItemView {
 

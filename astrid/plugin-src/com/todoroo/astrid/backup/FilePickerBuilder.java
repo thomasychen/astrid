@@ -8,7 +8,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.util.Log;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.utility.AndroidUtilities;
 
 @SuppressWarnings("nls")

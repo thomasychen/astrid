@@ -21,7 +21,7 @@ import android.content.res.Resources;
 import android.text.Html;
 import android.text.Spanned;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 
 /**
  * Displays an About dialog.

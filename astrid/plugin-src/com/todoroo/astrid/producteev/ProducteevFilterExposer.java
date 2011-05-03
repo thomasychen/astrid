@@ -10,7 +10,7 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.content.Intent;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.service.ContextManager;
 import com.todoroo.andlib.sql.Criterion;
 import com.todoroo.andlib.sql.QueryTemplate;

@@ -30,7 +30,7 @@ import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.TextView;
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 /**
  * A {@link QuickActionGrid} is an implementation of a {@link QuickActionWidget}

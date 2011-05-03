@@ -5,7 +5,7 @@ import android.os.Bundle;
 import com.commonsware.cwac.tlv.TouchListView;
 import com.commonsware.cwac.tlv.TouchListView.DropListener;
 import com.commonsware.cwac.tlv.TouchListView.SwipeListener;
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.data.Property.IntegerProperty;
 import com.todoroo.andlib.service.Autowired;
 import com.todoroo.andlib.utility.DialogUtilities;

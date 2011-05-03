@@ -7,7 +7,7 @@ import android.content.res.Resources;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.data.TodorooCursor;
 import com.todoroo.andlib.service.ContextManager;
 import com.todoroo.andlib.service.DependencyInjectionService;

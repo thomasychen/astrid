@@ -20,7 +20,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 
 public class CalendarView extends View {
 

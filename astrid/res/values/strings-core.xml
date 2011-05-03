@@ -5,16 +5,16 @@
   <!-- ================================================== AndroidManifest == -->
 
   <!-- Application Name (shown on home screen & in launcher) -->
-  <string name="app_name">Astrid Tasks</string>
+  <string name="app_name">To Do List</string>
   
   <!-- permission title for READ_TASKS -->
-  <string name="read_permission_label">Astrid Permission</string>
+  <string name="read_permission_label">To Do List Permission</string>
   
   <!-- permission description for READ_TASKS -->
   <string name="read_permission_desc">read tasks, display task filters</string>
   
   <!-- permission title for READ_TASKS -->
-  <string name="write_permission_label">Astrid Permission</string>
+  <string name="write_permission_label">To Do Lists Permission</string>
   
   <!-- permission description for READ_TASKS -->
   <string name="write_permission_desc">create new tasks, edit existing tasks</string>
@@ -34,7 +34,7 @@
   <string name="DLG_hour_minutes">Time (hours : minutes)</string>
   
   <!-- Dialog for Astrid having a critical update -->
-  <string name="DLG_please_update">Astrid should to be updated to the latest
+  <string name="DLG_please_update">To Do Tasks should to be updated to the latest
   version in the Android market! Please do that before continuing, or wait a 
   few seconds.</string>
 
@@ -48,7 +48,7 @@
   <string name="DLG_decline">I Decline</string>
 
   <!-- EULA title -->
-  <string name="DLG_eula_title">Astrid Terms Of Use</string>
+  <string name="DLG_eula_title">To Do Tasks Terms Of Use</string>
   
   <!-- =============================================================== UI == -->
   
@@ -91,7 +91,7 @@
   <string name="TLA_quick_add_hint">Add to this list...</string>
   
   <!-- Notification Volumne notification-->
-  <string name="TLA_notification_volume_low">Notifications are muted. You won\'t be able to hear Astrid!</string>
+  <string name="TLA_notification_volume_low">Notifications are muted. You won\'t be able to hear To Do Tasks!</string>
   
   <!-- ====================================================== TaskAdapter == -->
   
@@ -143,7 +143,7 @@
   <string name="SSD_sort_header">Sort Options</string>
   
   <!-- Sort Selection: smart sort -->
-  <string name="SSD_sort_auto">Astrid Smart Sort</string>
+  <string name="SSD_sort_auto"> Smart Sort</string>
   
   <!-- Sort Selection: sort by alpha -->
   <string name="SSD_sort_alpha">By Title</string>
@@ -169,7 +169,7 @@
   <!-- =============================================== FilterListActivity == -->
 
   <!-- Filter List Activity Title -->    
-  <string name="FLA_title">Astrid: Filters</string>
+  <string name="FLA_title"> Filters</string>
   
   <!-- Displayed when loading filters -->    
   <string name="FLA_loading">Loading Filters...</string>
@@ -201,10 +201,10 @@
   <!-- ================================================= TaskEditActivity == -->
   
   <!-- Title when editing a task (%s => task title) -->
-  <string name="TEA_view_title">Astrid: Editing \'%s\'</string>
+  <string name="TEA_view_title"> Editing \'%s\'</string>
   
   <!-- Title when creating a new task -->
-  <string name="TEA_view_titleNew">Astrid: New Task</string>
+  <string name="TEA_view_titleNew"> New Task</string>
   
   <!-- First Tab - basic task details -->
   <string name="TEA_tab_basic">Basic</string>
@@ -316,15 +316,15 @@
   <!-- ==================================================== UpdateService == -->
   
   <!-- Changelog Window Title -->
-  <string name="UpS_changelog_title">What\'s New In Astrid?</string>
+  <string name="UpS_changelog_title">What\'s New In To Do Tasks?</string>
   
   <!-- Updates Window Title -->
-  <string name="UpS_updates_title">Latest Astrid News</string>
+  <string name="UpS_updates_title">Latest To Do Tasks News</string>
   
   <!-- ================================================== EditPreferences == -->
     
   <!-- Preference Window Title -->
-  <string name="EPr_title">Astrid: Settings</string>
+  <string name="EPr_title">To Do Tasks: Settings</string>
 
   <!-- Preference Category: Appearance Title -->
   <string name="EPr_appearance_header">Appearance</string>
@@ -438,7 +438,7 @@
   
   <!-- About text (%s => current version)-->
 <string name="p_about_text">Current version: %s\n\n
-
+This is branched off Astrid.
 Astrid is open-source and proudly maintained by Todoroo, Inc.</string>
   
   <!-- ============================================================= Misc == -->

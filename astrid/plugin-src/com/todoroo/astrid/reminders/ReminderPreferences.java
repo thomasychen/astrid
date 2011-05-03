@@ -6,7 +6,7 @@ package com.todoroo.astrid.reminders;
 import android.content.res.Resources;
 import android.preference.Preference;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.utility.AndroidUtilities;
 import com.todoroo.andlib.widget.TodorooPreferences;
 import com.todoroo.andlib.utility.Preferences;

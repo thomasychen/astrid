@@ -28,7 +28,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.timsu.astrid.data.AbstractController;
 import com.timsu.astrid.data.AbstractModel;
 import com.timsu.astrid.data.enums.Importance;

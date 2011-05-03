@@ -36,7 +36,7 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.utility.AndroidUtilities;
 
 @SuppressWarnings({"nls","unused"})

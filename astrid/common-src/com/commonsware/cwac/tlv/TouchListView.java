@@ -34,7 +34,7 @@ import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.ListView;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 
 public class TouchListView extends ListView {
 	private ImageView mDragView;

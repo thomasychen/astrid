@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ExpandableListView;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.utility.AndroidUtilities;
 import com.todoroo.andlib.utility.Preferences;
 import com.todoroo.astrid.adapter.FilterAdapter;

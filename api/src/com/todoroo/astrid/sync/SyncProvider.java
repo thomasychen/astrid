@@ -18,7 +18,7 @@ import android.widget.Toast;
 import com.todoroo.andlib.data.Property.LongProperty;
 import com.todoroo.andlib.data.TodorooCursor;
 import com.todoroo.andlib.service.NotificationManager;
-import com.todoroo.astrid.api.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.astrid.data.Task;
 
 /**

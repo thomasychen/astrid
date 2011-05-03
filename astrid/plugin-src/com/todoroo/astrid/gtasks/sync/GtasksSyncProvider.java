@@ -20,7 +20,7 @@ import android.content.Intent;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.data.AbstractModel;
 import com.todoroo.andlib.data.Property;
 import com.todoroo.andlib.data.TodorooCursor;

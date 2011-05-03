@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.preference.ListPreference;
 import android.preference.Preference;
 
-import com.timsu.astrid.R;
+import com.timsu.astridsquid.R;
 import com.todoroo.andlib.utility.AndroidUtilities;
 import com.todoroo.astrid.data.StoreObject;
 import com.todoroo.astrid.producteev.sync.ProducteevDashboard;

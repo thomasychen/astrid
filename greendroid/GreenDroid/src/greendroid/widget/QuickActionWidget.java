@@ -29,7 +29,7 @@ import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.widget.PopupWindow;
 
-import com.cyrilmottier.android.greendroid.R;
+import com.timsu.astridsquid.R;
 
 /**
  * Abstraction of a {@link QuickAction} wrapper. A QuickActionWidget is
